@@ -6,6 +6,8 @@ description: This resource provides information about mental health in colonial 
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/58dec938d6fdbf522d605e54d9e0d999_lec_18.pdf
 file_size: 61865
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

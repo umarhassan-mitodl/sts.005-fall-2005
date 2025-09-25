@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section includes 14 weekly assignments and 4 paper assignment.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

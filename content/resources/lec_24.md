@@ -6,6 +6,8 @@ description: This resource provides information about the Decline of infectious 
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/3d686505eda73eeee70dcb74c1a73e44_lec_24.pdf
 file_size: 61155
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

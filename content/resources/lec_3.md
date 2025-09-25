@@ -6,6 +6,8 @@ description: 'This resource provides information about disease before Columbus, 
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/8163e7537653bb295888f868a9915c22_lec_3.pdf
 file_size: 61583
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

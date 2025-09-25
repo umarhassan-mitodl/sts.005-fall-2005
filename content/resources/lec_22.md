@@ -6,6 +6,8 @@ description: This resource provides information about prevalence of technology, 
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/d66fc17af6c26f7faeeb26b57db63401_lec_22.pdf
 file_size: 49662
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

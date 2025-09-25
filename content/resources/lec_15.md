@@ -6,6 +6,8 @@ description: This resource provides information about what is the medical profes
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/efcf71ac4f2f1a523e0c1d4a2abb2b01_lec_15.pdf
 file_size: 47028
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

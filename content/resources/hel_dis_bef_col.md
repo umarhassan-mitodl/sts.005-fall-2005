@@ -5,6 +5,8 @@ description: This resource provides information origins of Americans, overview o
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/4ca419cd7576758e88bd1537190f0ec8_hel_dis_bef_col.pdf
 file_size: 60623
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

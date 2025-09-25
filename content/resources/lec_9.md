@@ -6,6 +6,8 @@ description: This resource provides information about Omran?s model and the subt
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/54472da286479a8e6e2f4045f7466a3b_lec_9.pdf
 file_size: 47900
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

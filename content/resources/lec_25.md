@@ -6,6 +6,8 @@ description: This resource provides information about how much does healthcare c
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/9564de48a4c0550ba1f7e911c6a27972_lec_25.pdf
 file_size: 47758
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

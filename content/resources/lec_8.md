@@ -7,6 +7,8 @@ description: 'This resource provides information about population growth, causes
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/84f442c7fd1d3566a3653c076e28ae60_lec_8.pdf
 file_size: 51181
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

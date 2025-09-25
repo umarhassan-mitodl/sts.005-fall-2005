@@ -4,6 +4,8 @@ description: This resource provides information about paper 3 assignments.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/6da9ac76888ddbaef8f7486325df4b42_pap_asgmt3.pdf
 file_size: 40536
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: 'This resource provides information about bubonic plague, Honolulu 
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/42ede8625ef1463bc56ba98316ff224e_lec_21.pdf
 file_size: 48864
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
