@@ -4,6 +4,8 @@ description: This resource provides information about  study guide no. 12.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/237bc46c09dbd71d57237a94349e8111_study_guide_12.pdf
 file_size: 76966
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

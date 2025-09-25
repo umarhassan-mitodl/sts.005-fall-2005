@@ -5,6 +5,8 @@ description: This resource provides information about smallpox, inoculation, ino
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/dd7d74e4dacdaa77979e965c9d2a5ba3_lec_13.pdf
 file_size: 46375
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

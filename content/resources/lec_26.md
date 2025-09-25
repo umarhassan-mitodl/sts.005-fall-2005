@@ -5,6 +5,8 @@ description: This resource provides information about changing patterns of disea
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/426f3b812de11f2d842a295da497d2f4_lec_26.pdf
 file_size: 45233
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

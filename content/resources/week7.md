@@ -4,6 +4,8 @@ description: This resource provides information about week 7 assignments.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/eace0b7dd267b183b70483db6865041c_week7.pdf
 file_size: 64630
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

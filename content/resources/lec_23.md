@@ -6,6 +6,8 @@ description: This resource provides information about technology, transformation
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/55e4a55af7ec3876bffe4b078aa2edb1_lec_23.pdf
 file_size: 48478
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

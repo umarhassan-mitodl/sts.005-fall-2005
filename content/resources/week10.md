@@ -4,6 +4,8 @@ description: This resource provides information about week 10 assignments.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/5d186a0af0e6396912626c04c49b4bb6_week10.pdf
 file_size: 52861
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

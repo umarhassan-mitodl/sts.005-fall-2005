@@ -4,6 +4,8 @@ description: This resource provides information about week 8 assignments.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/95f027be094619e365796c8a4c094649_week8.pdf
 file_size: 51505
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

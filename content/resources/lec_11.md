@@ -6,6 +6,8 @@ description: 'This resource provides information about understanding past world 
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/f061666fe1bbbf940343a806a9957b2b_lec_11.pdf
 file_size: 46481
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

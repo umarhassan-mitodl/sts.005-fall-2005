@@ -6,6 +6,8 @@ description: This resource provides information about hospitals and ethnic anxie
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/7529fc2a8291345a3f1a7f2e2f42d6dc_lec_17.pdf
 file_size: 59190
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
